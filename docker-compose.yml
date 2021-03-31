@@ -3,7 +3,7 @@ version: "3.7"
 services:
   
   api:
-    build: ./python-sre/app
+    image: brmarques88/sre-api
     command: python manage.py run -h 0.0.0.0
     volumes:
       - ./python-sre/app/:/usr/src/sre/app/
@@ -22,7 +22,7 @@ services:
       MONGODB_PASSWORD: flaskpwd
 
   web:
-    build: ./angular-sre/
+    image: brmarques88/sre-web
     ports:
       - "4201:4201"
     container_name: angular-sre
