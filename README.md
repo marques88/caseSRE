@@ -17,3 +17,4 @@ Está em anexo a arquitetura do case
 É necessario realizar o download do arquivo case-sre.zip no github, após descompactar deve acessar a pasta e executar o arquivo docker-compose.
 
 Quando as maquinas subirem no docker pasta acessar o endereço do angular (http://localhost:4201/) para pesquisar os tweets.
+Melhores detalhes no arquivo  Como executar o Case SRE
