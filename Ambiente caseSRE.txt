@@ -1,0 +1,38 @@
+Ambiente Case SRE
+
+
+API
+Debian 10
+
+MongoDB
+Ubuntu 18.04.5
+
+Graylog
+Debian 10
+
+Mongo-graylog
+Ubuntu 18.04.5
+
+Elasticsearch
+CentOS 8
+
+WEB
+Debian 9
+
+Zabbix server
+Ubuntu 18.04.4
+
+Zabbix agent
+Alpine linux 3.11.6
+
+Zabbix Front
+Ubuntu 18.04.4
+
+Grafana
+Alpine linux 3.12.6
+
+Mysql
+Debian 10
+
+
+
